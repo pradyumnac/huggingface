@@ -1,3 +1,6 @@
 [submodule "notebooks"]
 	path = notebooks
 	url = git@github.com:pradyumnac/huggingface-notebooks.git
+[submodule "course"]
+	path = course
+	url = git@github.com:pradyumnac/huggingface-course.git
